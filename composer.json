@@ -1,0 +1,7 @@
+{
+    "name": "winner/lib",
+    "require": {
+        "respect/validation": "^1.1",
+        "nikic/fast-route": "^1.3"
+    }
+}

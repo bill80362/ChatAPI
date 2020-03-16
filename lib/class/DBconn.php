@@ -1,0 +1,7 @@
+<?
+class DBconn extends mysqli
+{
+
+
+}
+?>
